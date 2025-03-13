@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+// No need for useState and useEffect as we're using SWR for state management
 import useSWR from 'swr';
 
 // Define the petition data interface

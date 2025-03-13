@@ -15,7 +15,7 @@ export default function Home() {
         <div className="mb-8">
           <p className="text-gray-700 mb-4">
             This page displays neutral data showing the current number of signatures on a 
-            Change.org petition as a percentage of Port Moody's total population.
+            Change.org petition as a percentage of Port Moody&apos;s total population.
           </p>
           <p className="text-gray-700">
             The data is presented for informational purposes only and is updated regularly.
@@ -32,7 +32,7 @@ export default function Home() {
           </p>
           <p className="text-gray-700">
             <strong>Methodology:</strong> The signature count is retrieved from the Change.org petition page.
-            The percentage is calculated using Port Moody's population of 33,535 as the denominator.
+            The percentage is calculated using Port Moody&apos;s population of 33,535 as the denominator.
           </p>
         </div>
       </main>
