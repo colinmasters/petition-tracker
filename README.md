@@ -4,7 +4,7 @@ This Next.js application provides neutral data visualization showing the current
 
 ## Live Demo
 
-[View the live application](https://pomo-petition.vercel.app/) (Once deployed)
+[View the live application](https://petition-tracker.vercel.app/) (Once deployed)
 
 ## Project Overview
 
@@ -56,8 +56,8 @@ This application:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/username/pomo-petition.git
-   cd pomo-petition
+   git clone https://github.com/colinmasters/petition-tracker.git
+   cd petition-tracker
    ```
 
 2. Install dependencies:
@@ -94,7 +94,7 @@ No environment variables are required for basic functionality.
 ## Project Structure
 
 ```
-pomo-petition/
+petition-tracker/
 ├── src/
 │   ├── app/
 │   │   ├── api/

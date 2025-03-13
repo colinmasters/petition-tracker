@@ -42,7 +42,7 @@ export default function Home() {
           <p className="text-center text-gray-500 text-sm">
             &copy; {new Date().getFullYear()} Port Moody Petition Data | 
             <a 
-              href="https://github.com/username/pomo-petition" 
+              href="https://github.com/colinmasters/petition-tracker" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline ml-1"
